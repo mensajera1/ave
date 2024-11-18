@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/src/index.js"
+      "dest": "/"
     }
   ],
   "env": { "VERCEL_FORCE_NO_BUILD_CACHE": "1" }
